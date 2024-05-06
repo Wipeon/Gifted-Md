@@ -25,17 +25,17 @@
       "required" :false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": "Bot Name",
       "required" :false,    
       "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
     }, 
     "USER_IMAGES": {
-      "description": "Image for bot",
+      "description": "Images for bot",
       "required" :false,    
       "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
     }, 
     "TZ": {
-      "description": "Put TIME_ZONE according to your location",
+      "description": "Put Time Zone according to your location",
       "required" :false,    
       "value": "Africa/Nairobi"
     },  
@@ -76,7 +76,7 @@
     },
     "GURL": {
       "description": " If you Change Bot won't Respond",
-      "required" :true,    
+      "required" :false,    
       "value": "https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l"
     },
     "AUTO_READ_STATUS": {
@@ -105,7 +105,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254728782591,254762016957,254110853827,254728746852,255655147353"
+      "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -129,7 +129,7 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
@@ -138,7 +138,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Gifte Tech",
+      "value": "Gifted Tech",
       "required": false 
     },
     "STACK": {

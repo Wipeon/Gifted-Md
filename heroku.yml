@@ -2,5 +2,5 @@ build:
   docker:
       web: lib/Dockerfile
 run:
-  web: npm run giftedmd
+  web: npm start
  
